@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#result{
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+#root2{
+    margin-left: 50px;
+    color: crimson;
+    font-family: serif;
+}
